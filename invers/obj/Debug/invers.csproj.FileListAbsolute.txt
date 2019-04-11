@@ -1,0 +1,39 @@
+D:\visual studio\invers\invers\bin\Debug\invers.exe.config
+D:\visual studio\invers\invers\bin\Debug\invers.exe
+D:\visual studio\invers\invers\bin\Debug\invers.pdb
+D:\visual studio\invers\invers\obj\Debug\invers.Form1.resources
+D:\visual studio\invers\invers\obj\Debug\invers.Properties.Resources.resources
+D:\visual studio\invers\invers\obj\Debug\invers.csproj.GenerateResource.cache
+D:\visual studio\invers\invers\obj\Debug\invers.csproj.CoreCompileInputs.cache
+D:\visual studio\invers\invers\obj\Debug\invers.exe
+D:\visual studio\invers\invers\obj\Debug\invers.pdb
+D:\visual studio\invers\invers\obj\Debug\invers.csprojAssemblyReference.cache
+F:\лабы\invers\invers\bin\Debug\invers.exe.config
+F:\лабы\invers\invers\bin\Debug\invers.exe
+F:\лабы\invers\invers\bin\Debug\invers.pdb
+F:\лабы\invers\invers\obj\Debug\invers.csprojResolveAssemblyReference.cache
+F:\лабы\invers\invers\obj\Debug\invers.Form1.resources
+F:\лабы\invers\invers\obj\Debug\invers.Properties.Resources.resources
+F:\лабы\invers\invers\obj\Debug\invers.csproj.GenerateResource.Cache
+F:\лабы\invers\invers\obj\Debug\invers.csproj.CoreCompileInputs.cache
+F:\лабы\invers\invers\obj\Debug\invers.exe
+F:\лабы\invers\invers\obj\Debug\invers.pdb
+E:\лабы\invers\invers\bin\Debug\invers.exe.config
+E:\лабы\invers\invers\obj\Debug\invers.exe
+E:\лабы\invers\invers\obj\Debug\invers.pdb
+E:\лабы\invers\invers\bin\Debug\invers.exe
+E:\лабы\invers\invers\bin\Debug\invers.pdb
+E:\лабы\invers\invers\obj\Debug\invers.csprojResolveAssemblyReference.cache
+E:\лабы\invers\invers\obj\Debug\invers.Form1.resources
+E:\лабы\invers\invers\obj\Debug\invers.Properties.Resources.resources
+E:\лабы\invers\invers\obj\Debug\invers.csproj.GenerateResource.Cache
+G:\лабы\invers\invers\bin\Debug\invers.exe.config
+G:\лабы\invers\invers\bin\Debug\invers.exe
+G:\лабы\invers\invers\bin\Debug\invers.pdb
+G:\лабы\invers\invers\obj\Debug\invers.Form1.resources
+G:\лабы\invers\invers\obj\Debug\invers.Properties.Resources.resources
+G:\лабы\invers\invers\obj\Debug\invers.csproj.GenerateResource.cache
+G:\лабы\invers\invers\obj\Debug\invers.csproj.CoreCompileInputs.cache
+G:\лабы\invers\invers\obj\Debug\invers.exe
+G:\лабы\invers\invers\obj\Debug\invers.pdb
+G:\лабы\invers\invers\obj\Debug\invers.csprojAssemblyReference.cache
